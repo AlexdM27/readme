@@ -1,3 +1,4 @@
+![](hogwarts.jfif)
 ```rust
 #include <stdio.h>
 int main(){
